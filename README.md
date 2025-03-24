@@ -1,2 +1,2 @@
 ## Welcome to my Github!
-This account showcases a few of my personal projects developed independently from school and work. I enjoy programming and am passionate about continuously improving my skills and knowledge by working on interesting things. Thanks for stopping by!
+This account showcases some of my personal projects developed outside of school and work. I enjoy programming and continuously improving my skills by working on interesting projects. Thanks for stopping by!
